@@ -36,6 +36,7 @@ to appreciate their differences and commonalities.
     * For
     * While
 * Functions
+  * [Defination and Call](function-defination.md)
   * Variable arguments
   * Default arguments
   * Nested Functions
