@@ -4,12 +4,12 @@
 
 ```c
 // define a function
-void someFunction() {
+void some_function() {
     // some logic
 }
 
 // call the function
-someFunction();
+some_function();
 ```
 
 ## C\#
@@ -94,6 +94,18 @@ fun someFunction() {
 
 // call the function
 someFunction()
+```
+
+## Perl
+
+```perl
+# define a function
+sub some_function  {
+    # logic
+}
+
+# call the function
+some_function()
 ```
 
 ## PHP

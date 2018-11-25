@@ -13,6 +13,7 @@ to appreciate their differences and commonalities.
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Kotlin](https://kotlinlang.org/docs/reference/)
 * Objective-C
+* [Perl](http://modernperlbooks.com/books/modern_perl_2016/)
 * [PHP](https://secure.php.net/manual/en/langref.php)
 * [Python](https://docs.python.org/3/)
 * [Ruby](https://www.ruby-lang.org/en/documentation/)
