@@ -105,7 +105,7 @@ sub some_function  {
 }
 
 # call the function
-some_function()
+some_function();
 ```
 
 ## PHP
